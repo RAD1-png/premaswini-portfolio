@@ -1,0 +1,1 @@
+export { ContentExpertise } from "./SectionParts";
